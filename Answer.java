@@ -4,6 +4,7 @@ public class Answer {
 	public static void main(String[] args) {
 		String[] result = answer(/*PUT X IN HERE<<<<<=======*/);
 	}
+	
     public static String[] answer(int x) { 
         
         String[] peculiar_balance = balanceConversion(convert(x));
